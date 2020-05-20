@@ -14,19 +14,19 @@
 		+ inst5.asp
 	```
     
-	- convert_input.asp
+	- convert_input.asp - 
 	**It changes the input file schema to an easily readable and understanble form that we used to implement the constraints of the project.**
 	
-	- parsing.asp
+	- parsing.asp - 
 	**This file contains code for obtaining various values for the number of objects and their type in the system.**
 	
-	- demo.asp
+	- demo.asp - 
 	**The main file where the code for all the constraints resides including**
 	
-  - description.pdf
+  - description.pdf - 
   **The pdf containing the problem statement and description of the system.**
   
-	- script.py
+	- script.py - 
 	**A python file for easier execution of the program.**
 
 ## Dependencies
