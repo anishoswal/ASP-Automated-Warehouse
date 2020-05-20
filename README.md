@@ -75,6 +75,7 @@ CPU Time     : 0.375s
 
 
 #### Instance 2
+```clingo
 C:\Users\Anish\Desktop\Master\CSE579Warehouseing>python script.py
 
  | code   |  Instance File    |
@@ -127,9 +128,11 @@ Optimization : 72
 Calls        : 1
 Time         : 0.886s (Solving: 0.77s 1st Model: 0.14s Unsat: 0.31s)
 CPU Time     : 0.891s
+```
 
 
 #### Instance 3
+```clingo
 C:\Users\Anish\Desktop\Master\CSE579Warehouseing>python script.py
 
  | code   |  Instance File    |
@@ -190,9 +193,11 @@ Optimization : 31
 Calls        : 1
 Time         : 0.273s (Solving: 0.21s 1st Model: 0.00s Unsat: 0.07s)
 CPU Time     : 0.281s
+```
 
 
 #### Instance 4
+```clingo
 C:\Users\Anish\Desktop\Master\CSE579Warehouseing>python script.py
 
  | code   |  Instance File    |
@@ -238,9 +243,11 @@ Optimization : 20
 Calls        : 1
 Time         : 0.300s (Solving: 0.18s 1st Model: 0.01s Unsat: 0.10s)
 CPU Time     : 0.313s
+```
 
 
 #### Instance 5
+```clingo
 C:\Users\Anish\Desktop\Master\CSE579Warehouseing>python script.py
 
  | code   |  Instance File    |
@@ -304,3 +311,4 @@ Optimization : 31
 Calls        : 1
 Time         : 0.388s (Solving: 0.28s 1st Model: 0.02s Unsat: 0.17s)
 CPU Time     : 0.391s
+```
