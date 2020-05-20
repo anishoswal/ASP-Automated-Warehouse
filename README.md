@@ -32,6 +32,9 @@
 3. Download the project into a suitable folder on your local computer.
 4. Run the **script.py** file to test the project.
 
+## Commands
+'''python script.py'''
+
 ## Command Lines and Outputs of all the instances
 
 #### Instance 1
