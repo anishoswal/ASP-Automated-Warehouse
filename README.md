@@ -40,6 +40,7 @@ python script.py
 ## Command Lines and Outputs of all the instances
 
 #### Instance 1
+```clingo
 C:\Users\Anish\Desktop\Master\CSE579Warehouseing>python script.py
 
  | code   |  Instance File    |
@@ -70,6 +71,7 @@ Optimization : 64
 Calls        : 1
 Time         : 0.377s (Solving: 0.25s 1st Model: 0.13s Unsat: 0.13s)
 CPU Time     : 0.375s
+```
 
 
 #### Instance 2
