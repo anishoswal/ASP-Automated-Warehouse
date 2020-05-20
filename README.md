@@ -26,7 +26,7 @@
   - description.pdf - 
   **The pdf containing the problem statement and description of the system.**
   
-	- script.py - 
+  - script.py - 
 	**A python file for easier execution of the program.**
 
 ## Dependencies
