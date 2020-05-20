@@ -33,7 +33,9 @@
 4. Run the **script.py** file to test the project.
 
 ## Commands
-'''python script.py'''
+```python
+python script.py
+```
 
 ## Command Lines and Outputs of all the instances
 
