@@ -1,4 +1,4 @@
-# CSE 579 Automated Warehousing Scenario
+# Automated Warehousing Scenario
 
 - The following is the implementation for the Automated Warehouse Scenario, details about which can be found in the [ASP challenge 2019](https://sites.google.com/view/aspcomp2019/problem-domains)
 - The project is complete with no currently known anomalies
